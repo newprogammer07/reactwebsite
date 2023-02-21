@@ -1,0 +1,606 @@
+{
+  "maincategory": [
+    {
+      "id": 1,
+      "name": "Male"
+    },
+    {
+      "id": 2,
+      "name": "Female"
+    },
+    {
+      "id": 3,
+      "name": "Kids"
+    }
+  ],
+  "subcategory": [
+    {
+      "name": "Jeans",
+      "id": 1
+    },
+    {
+      "name": "Tshirt",
+      "id": 2
+    },
+    {
+      "name": "Shirt",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Trouer"
+    }
+  ],
+  "brand": [
+    {
+      "name": "Adidas",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Mufti"
+    },
+    {
+      "id": 3,
+      "name": "Polo"
+    },
+    {
+      "name": "Zara",
+      "id": 4
+    },
+    {
+      "name": "Gucci",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "name": "Tommy Hilfiger"
+    }
+  ],
+  "product": [
+    {
+      "id": 0,
+      "name": "Kids Jeans Slim Fit",
+      "maincategory": "Kids",
+      "subcategory": "Jeans",
+      "brand": "Mufti",
+      "color": "Blue",
+      "size": "26",
+      "baseprice": 4500,
+      "discount": 45,
+      "finalprice": 2475,
+      "stock": "Out Of Stock",
+      "pic1": "p56.jpg",
+      "pic2": "p57.jpg",
+      "pic3": "p64.jpg",
+      "pic4": "p43.jpg"
+    },
+    {
+      "id": 1,
+      "name": "Male Jeans Slim Fit Mufti",
+      "maincategory": "Male",
+      "subcategory": "Jeans",
+      "brand": "Mufti",
+      "color": "Black",
+      "size": "36",
+      "baseprice": 4560,
+      "discount": 45,
+      "finalprice": 2508,
+      "stock": "In Stock",
+      "description": "",
+      "pic1": "p5.jpg",
+      "pic2": "p2.jpg",
+      "pic3": "p1.jpg",
+      "pic4": "p7.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Male Jeans Regular Fit",
+      "maincategory": "Male",
+      "subcategory": "Jeans",
+      "brand": "Mufti",
+      "color": "Blue",
+      "size": "36",
+      "baseprice": 7889,
+      "discount": 55,
+      "finalprice": 3550,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p11.jpg",
+      "pic2": "p1.jpg",
+      "pic3": "p2.jpg",
+      "pic4": "p5.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Female Tshirt Gucci",
+      "maincategory": "Female",
+      "subcategory": "Tshirt",
+      "brand": "Gucci",
+      "color": "White",
+      "size": "MD",
+      "baseprice": 8500,
+      "discount": 25,
+      "finalprice": 6375,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p19.jpg",
+      "pic2": "p23.jpg",
+      "pic3": "p19.jpg",
+      "pic4": "p70.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Man Jeans Adidas ",
+      "maincategory": "Male",
+      "subcategory": "Jeans",
+      "brand": "Tommy Hilfiger",
+      "color": "Black",
+      "size": "36",
+      "baseprice": 7890,
+      "discount": 45,
+      "finalprice": 4339,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p1.jpg",
+      "pic2": "p5.jpg",
+      "pic3": "p16.jpg",
+      "pic4": "p11.jpg"
+    },
+    {
+      "name": "Male Jeans Adidas Slim Fit",
+      "maincategory": "Male",
+      "subcategory": "Jeans",
+      "brand": "Adidas",
+      "color": "Blue",
+      "size": "38",
+      "baseprice": 4560,
+      "discount": 45,
+      "finalprice": 2508,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p49.jpg",
+      "pic2": "p44.jpg",
+      "pic3": "p5.jpg",
+      "pic4": "p7.jpg",
+      "id": 5
+    },
+    {
+      "name": "Man Tshirt Tommy Hilfiger",
+      "maincategory": "Male",
+      "subcategory": "Tshirt",
+      "brand": "Tommy Hilfiger",
+      "color": "Black",
+      "size": "LG",
+      "baseprice": 7800,
+      "discount": 80,
+      "finalprice": 1560,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p3.jpg",
+      "pic2": "p51.jpg",
+      "pic3": "p52.jpg",
+      "pic4": "p49.jpg",
+      "id": 6
+    },
+    {
+      "name": "Female Tshirt White Adidas",
+      "maincategory": "Female",
+      "subcategory": "Tshirt",
+      "brand": "Adidas",
+      "color": "White",
+      "size": "SM",
+      "baseprice": 4560,
+      "discount": 60,
+      "finalprice": 1824,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p22.jpg",
+      "pic2": "p28.jpg",
+      "pic3": "p23.jpg",
+      "pic4": "p39.jpg",
+      "id": 7
+    },
+    {
+      "name": "Kids Tshirt Blue Polo",
+      "maincategory": "Kids",
+      "subcategory": "Tshirt",
+      "brand": "Polo",
+      "color": "Blue",
+      "size": "SM",
+      "baseprice": 1544,
+      "discount": 44,
+      "finalprice": 864,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p61.jpg",
+      "pic2": "p58.jpg",
+      "pic3": "p60.jpg",
+      "pic4": "p59.jpg",
+      "id": 8
+    },
+    {
+      "name": "Female Trouser Black",
+      "maincategory": "Female",
+      "subcategory": "Trouer",
+      "brand": "Zara",
+      "color": "Black",
+      "size": "30",
+      "baseprice": 4844,
+      "discount": 44,
+      "finalprice": 2712,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p70.jpg",
+      "pic2": "p71.jpg",
+      "pic3": "p74.jpg",
+      "pic4": "p72.jpg",
+      "id": 9
+    },
+    {
+      "name": "Female Jeans Ripped ",
+      "maincategory": "Female",
+      "subcategory": "Jeans",
+      "brand": "Tommy Hilfiger",
+      "color": "Blue",
+      "size": "32",
+      "baseprice": 9800,
+      "discount": 55,
+      "finalprice": 4410,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p20.jpg",
+      "pic2": "p32.jpg",
+      "pic3": "p47.jpg",
+      "pic4": "p12.jpg",
+      "id": 10
+    },
+    {
+      "name": "Male Tshirt White Polo",
+      "maincategory": "Male",
+      "subcategory": "Tshirt",
+      "brand": "Polo",
+      "color": "White",
+      "size": "LG",
+      "baseprice": 9800,
+      "discount": 85,
+      "finalprice": 1470,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p54.jpg",
+      "pic2": "p2.jpg",
+      "pic3": "p1.jpg",
+      "pic4": "p15.jpg",
+      "id": 11
+    }
+  ],
+  "user": [
+    {
+      "id": 0
+    },
+    {
+      "id": 3,
+      "name": "Dushyant kumar",
+      "username": "Dk",
+      "email": "dushyant180@gmail.com",
+      "phone": "7355121281",
+      "password": "875684",
+      "addressline1": "02",
+      "addressline2": "02",
+      "addressline3": "Challera",
+      "pin": "9506061859",
+      "city": "Noida",
+      "state": "UP",
+      "pic": "",
+      "role": "User"
+    }
+  ],
+  "cart": [
+    {
+      "id": 0
+    },
+    {
+      "productid": 8,
+      "userid": "1",
+      "name": "Kids Tshirt Blue Polo",
+      "color": "Blue",
+      "size": "SM",
+      "price": 864,
+      "qty": 1,
+      "total": 864,
+      "pic": "p61.jpg",
+      "id": 3
+    },
+    {
+      "productid": 2,
+      "userid": "1",
+      "name": "Male Jeans Regular Fit",
+      "color": "Blue",
+      "size": "36",
+      "price": 3550,
+      "qty": 1,
+      "total": 3550,
+      "pic": "p11.jpg",
+      "id": 4
+    },
+    {
+      "productid": 11,
+      "userid": null,
+      "name": "Male Tshirt White Polo",
+      "color": "White",
+      "size": "LG",
+      "price": 1470,
+      "qty": 3,
+      "total": 4410,
+      "pic": "p54.jpg",
+      "id": 5
+    }
+  ],
+  "wishlist": [
+    {
+      "id": 0
+    },
+    {
+      "productid": 1,
+      "userid": "1",
+      "name": "Male Jeans Slim Fit Mufti",
+      "color": "Black",
+      "size": "36",
+      "price": 2508,
+      "pic": "p5.jpg",
+      "id": 1
+    },
+    {
+      "productid": 5,
+      "userid": "1",
+      "name": "Male Jeans Adidas Slim Fit",
+      "color": "Blue",
+      "size": "38",
+      "price": 2508,
+      "pic": "p49.jpg",
+      "id": 2
+    },
+    {
+      "productid": 4,
+      "userid": "1",
+      "name": "Man Jeans Adidas ",
+      "color": "Black",
+      "size": "36",
+      "price": 4339,
+      "pic": "p1.jpg",
+      "id": 3
+    },
+    {
+      "productid": 4,
+      "userid": "3",
+      "name": "Man Jeans Adidas ",
+      "color": "Black",
+      "size": "36",
+      "price": 4339,
+      "pic": "p1.jpg",
+      "id": 5
+    }
+  ],
+  "checkout": [
+    {
+      "id": 0
+    },
+    {
+      "userid": "3",
+      "paymentmode": "COD",
+      "orderstatus": "Order Placed",
+      "paymentstatus": "Pending",
+      "time": "2023-02-04T08:47:24.152Z",
+      "totalAmount": 12396,
+      "shippingAmount": 0,
+      "finalAmount": 12396,
+      "products": [
+        {
+          "productid": 10,
+          "userid": "3",
+          "name": "Female Jeans Ripped ",
+          "color": "Blue",
+          "size": "32",
+          "price": 4410,
+          "qty": 2,
+          "total": 8820,
+          "pic": "p20.jpg",
+          "id": 5
+        },
+        {
+          "productid": 9,
+          "userid": "3",
+          "name": "Female Trouser Black",
+          "color": "Black",
+          "size": "30",
+          "price": 2712,
+          "qty": 1,
+          "total": 2712,
+          "pic": "p70.jpg",
+          "id": 6
+        },
+        {
+          "productid": 8,
+          "userid": "3",
+          "name": "Kids Tshirt Blue Polo",
+          "color": "Blue",
+          "size": "SM",
+          "price": 864,
+          "qty": 1,
+          "total": 864,
+          "pic": "p61.jpg",
+          "id": 7
+        }
+      ],
+      "id": 1
+    },
+    {
+      "userid": "3",
+      "paymentmode": "COD",
+      "orderstatus": "Order Placed",
+      "paymentstatus": "Pending",
+      "time": "2023-02-04T08:58:06.517Z",
+      "totalAmount": 12396,
+      "shippingAmount": 0,
+      "finalAmount": 12396,
+      "products": [
+        {
+          "productid": 10,
+          "userid": "3",
+          "name": "Female Jeans Ripped ",
+          "color": "Blue",
+          "size": "32",
+          "price": 4410,
+          "qty": 2,
+          "total": 8820,
+          "pic": "p20.jpg",
+          "id": 5
+        },
+        {
+          "productid": 9,
+          "userid": "3",
+          "name": "Female Trouser Black",
+          "color": "Black",
+          "size": "30",
+          "price": 2712,
+          "qty": 1,
+          "total": 2712,
+          "pic": "p70.jpg",
+          "id": 6
+        },
+        {
+          "productid": 8,
+          "userid": "3",
+          "name": "Kids Tshirt Blue Polo",
+          "color": "Blue",
+          "size": "SM",
+          "price": 864,
+          "qty": 1,
+          "total": 864,
+          "pic": "p61.jpg",
+          "id": 7
+        }
+      ],
+      "id": 2
+    },
+    {
+      "userid": "3",
+      "paymentmode": "COD",
+      "orderstatus": "Order Placed",
+      "paymentstatus": "Pending",
+      "time": "2023-02-04T09:00:50.237Z",
+      "totalAmount": 0,
+      "shippingAmount": 0,
+      "finalAmount": 0,
+      "products": [],
+      "id": 3
+    },
+    {
+      "userid": "3",
+      "paymentmode": "COD",
+      "orderstatus": "Order Placed",
+      "paymentstatus": "Pending",
+      "time": "2023-02-06T15:26:16.701Z",
+      "totalAmount": 4410,
+      "shippingAmount": 0,
+      "finalAmount": 4410,
+      "products": [
+        {
+          "productid": 10,
+          "userid": "3",
+          "name": "Female Jeans Ripped ",
+          "color": "Blue",
+          "size": "32",
+          "price": 4410,
+          "qty": 1,
+          "total": 4410,
+          "pic": "p20.jpg",
+          "id": 5
+        }
+      ],
+      "id": 4
+    },
+    {
+      "userid": "3",
+      "paymentmode": "COD",
+      "orderstatus": "Order Placed",
+      "paymentstatus": "Pending",
+      "time": "2023-02-11T07:18:40.498Z",
+      "totalAmount": 2508,
+      "shippingAmount": 0,
+      "finalAmount": 2508,
+      "products": [
+        {
+          "productid": 1,
+          "userid": "3",
+          "name": "Male Jeans Slim Fit Mufti",
+          "color": "Black",
+          "size": "36",
+          "price": 2508,
+          "qty": 1,
+          "total": 2508,
+          "pic": "p5.jpg",
+          "id": 5
+        }
+      ],
+      "id": 5
+    },
+    {
+      "userid": null,
+      "paymentmode": "COD",
+      "orderstatus": "Order Placed",
+      "paymentstatus": "Pending",
+      "time": "2023-02-11T09:53:33.040Z",
+      "totalAmount": 0,
+      "shippingAmount": 0,
+      "finalAmount": 0,
+      "products": [],
+      "id": 6
+    },
+    {
+      "userid": "3",
+      "paymentmode": "COD",
+      "orderstatus": "Order Placed",
+      "paymentstatus": "Pending",
+      "time": "2023-02-21T18:31:57.526Z",
+      "totalAmount": 1824,
+      "shippingAmount": 0,
+      "finalAmount": 1824,
+      "products": [
+        {
+          "productid": 7,
+          "userid": "3",
+          "name": "Female Tshirt White Adidas",
+          "color": "White",
+          "size": "SM",
+          "price": 1824,
+          "qty": 1,
+          "total": 1824,
+          "pic": "p22.jpg",
+          "id": 6
+        }
+      ],
+      "id": 7
+    }
+  ],
+  "contact": [
+    {
+      "id": 0
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "subject": "",
+      "message": "",
+      "status": "Active",
+      "time": "2023-02-12T16:47:18.330Z",
+      "id": 1
+    }
+  ],
+  "newslatter": [
+    {
+      "id": 0
+    }
+  ]
+}

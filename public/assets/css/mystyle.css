@@ -1,0 +1,9 @@
+.mytable{
+    width: 100%;
+    overflow: auto;
+}
+
+.mytable th,td{
+    border: 2px solid rgb(235, 178, 245);
+    padding: 0;
+}
